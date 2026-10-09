@@ -1,6 +1,6 @@
-# Meet Scrubbey!
+# Meet Scrubbey! 📄✨
 
-**Standardize and clean playlists for Navidrome, iOpenPod or any music software that supports M3U8 importing.**
+**Clean your M3U8 playlists for Navidrome, iOpenPod or any music software that supports M3U8 importing!**
 
 
 <!-- Take a screenshot on your Mac (Shift-Command-4, then Space, then click the window) and save it as docs/screenshot.png -->
@@ -21,13 +21,12 @@
 
 ## Install (macOS)
 
-1. Download the latest `PlaylistCleaner-x.y.z.dmg` from the [Releases](../../releases) page.
-2. Open the DMG and drag **Playlist Cleaner** into **Applications**.
-3. First launch: the app is not notarized by Apple, so macOS may say it can't verify the developer. Try to open the app once, then go to **System Settings → Privacy & Security**, scroll to **Security** and click **Open Anyway**. The button stays available for about an hour after you try to open the app.
+1. Download the latest `Scrubbey.dmg` from the [Releases](../../releases) page.
+2. Open the DMG and drag **Scrubbey** into **Applications**.
+3. First launch: the app is not notarized by Apple, and I'm broke so... Try to open the app once, then go to **System Settings → Privacy & Security**, scroll to **Security** and click **Open Anyway**.
 
-Prefer Terminal? `xattr -dr com.apple.quarantine "/Applications/Playlist Cleaner.app"` does the same job. Only do this for software you trust, and remember you can read every line of this project's source.
+You can also do `xattr -dr com.apple.quarantine "/Applications/Playlist Cleaner.app"`
 
-On first use macOS may ask whether the app can access folders such as Music, Documents or an external drive. Choose **Allow**; you can change it later in System Settings → Privacy & Security.
 
 ## How to use
 
@@ -66,7 +65,7 @@ python3 gui_cleaner.py
 
 ## Contributing
 
-Issues and pull requests are welcome. It's a personal project that I have vibecoded and just happy how it turned out and wants to share it with y'all, source code is available to see and you can mess around if you want too.
+Issues and pull requests are welcome though it really is my first time releasing an app, kind of stoked about that. It's a personal project that I have vibecoded and just happy how it turned out and wants to share it with y'all
 
 ## License
 
