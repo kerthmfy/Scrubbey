@@ -63,8 +63,6 @@ python3 gui_cleaner.py
 <!-- If gui_cleaner.py needs third-party packages, list them in requirements.txt and mention `pip install -r requirements.txt` here. -->
 
 
-## Contributing
-
 Issues and pull requests are welcome though it really is my first time releasing an app, kind of stoked about that. It's a personal project that I have vibecoded and just happy how it turned out and wants to share it with y'all
 
 ## License
