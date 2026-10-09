@@ -24,7 +24,7 @@
 2. Open the DMG and drag **Scrubbey** into **Applications**.
 3. First launch: the app is not notarized by Apple, and I'm broke so... Try to open the app once, then go to **System Settings → Privacy & Security**, scroll to **Security** and click **Open Anyway**.
 
-You can also do `xattr -dr com.apple.quarantine "/Applications/Playlist Cleaner.app"`
+You can also do `xattr -dr com.apple.quarantine "/Applications/Scrubbey.app"`
 
 
 ## How to use
@@ -59,7 +59,6 @@ cd Scrubbey
 python3 gui_cleaner.py
 ```
 
-<!-- If gui_cleaner.py needs third-party packages, list them in requirements.txt and mention `pip install -r requirements.txt` here. -->
 
 ## Issues and pull requests
 
