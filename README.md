@@ -1,9 +1,8 @@
 # Meet Scrubbey! 📄✨
 
-**Clean your M3U8 playlists for Navidrome, iOpenPod or any music software that supports M3U8 importing!**
+**An M3U8/playlist cleaner for your Navidrome server, or any music software that supports M3U8 importing!**
 
 
-<!-- Take a screenshot on your Mac (Shift-Command-4, then Space, then click the window) and save it as docs/screenshot.png -->
 ![Scrubbey](docs/screenshot.png)
 
 ## Features
@@ -64,11 +63,11 @@ python3 gui_cleaner.py
 
 ## Issues and pull requests
 
-... are welcome though but it really is my first time releasing an app so don't expect that much from me, still learning everything. 
+... are kinda welcome but it really is my first time releasing an app so don't expect that much from me, still learning everything.
 
 ## Meh
 
-It's a personal project that I have vibecoded because I want my Navidrome server and my iPod follows the structure of my spotify playlist. Really happy how it turned out and wants to share it with y'all
+It's a personal project that I have vibe-coded because I want my Navidrome server and my iPod because i am importing M3U8 files at [iOpenPod](https://github.com/USERNAME/iOpenPod)(https://github.com/TheRealSavi/iOpenPod) which really how the idea came into fruition and it also follows the structure of my spotify playlist. Really happy how it turned out and wants to share it with y'all and maybe shares the same problem as mine lmao.
 
 ## License
 
