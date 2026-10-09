@@ -4,7 +4,7 @@
 
 
 <!-- Take a screenshot on your Mac (Shift-Command-4, then Space, then click the window) and save it as docs/screenshot.png -->
-![Playlist Cleaner screenshot](docs/screenshot.png)
+![Scrubbey](docs/screenshot.png)
 
 ## Features
 
@@ -62,9 +62,14 @@ python3 gui_cleaner.py
 
 <!-- If gui_cleaner.py needs third-party packages, list them in requirements.txt and mention `pip install -r requirements.txt` here. -->
 
+## Issues and pull requests
 
-Issues and pull requests are welcome though it really is my first time releasing an app, kind of stoked about that. It's a personal project that I have vibecoded and just happy how it turned out and wants to share it with y'all
+... are welcome though but it really is my first time releasing an app so don't expect that much from me, still learning everything. 
+
+## Meh
+
+It's a personal project that I have vibecoded because I want my Navidrome server and my iPod follows the structure of my spotify playlist. Really happy how it turned out and wants to share it with y'all
 
 ## License
 
-Released under the GPL-2.0. <!-- Pick a licence when you create the repo and update this line. -->
+Released under the [GPL-2.0](https://opensource.org/licenses/GPL-2.0).
