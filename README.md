@@ -67,7 +67,7 @@ python3 gui_cleaner.py
 
 ## Meh
 
-It's a personal project that I have vibe-coded because I want my Navidrome server and my iPod because i am importing M3U8 files at [iOpenPod](https://github.com/USERNAME/iOpenPod)(https://github.com/TheRealSavi/iOpenPod) which really how the idea came into fruition and it also follows the structure of my spotify playlist. Really happy how it turned out and wants to share it with y'all and maybe shares the same problem as mine lmao.
+It's a personal project that I have vibe-coded because I want my Navidrome server and my iPod because i am importing M3U8 files at [iOpenPod](https://github.com/USERNAME/iOpenPod) which really how the idea came into fruition and it also follows the structure of my spotify playlist. Really happy how it turned out and wants to share it with y'all and maybe shares the same problem as mine lmao.
 
 ## License
 
