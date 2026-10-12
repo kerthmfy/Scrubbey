@@ -15,8 +15,7 @@
 - **Recursive scan** of sub-folders.
 - **Path format**: write `basename`, `relative` or `absolute` paths, whichever your player prefers.
 - **Output folder or in place**: write cleaned copies somewhere new, or leave the field blank to overwrite.
-- **Stays responsive**: the cleaner runs on a background thread, so the window never freezes on a big library.
-- **No image assets**: every control is drawn on a Tkinter Canvas, gradients included.
+- **Stays responsive**: the cleaner runs on a background thread, so put all your entire library there and there'd be no problems
 
 ## Install (macOS)
 
@@ -66,7 +65,7 @@ python3 gui_cleaner.py
 
 ## Meh
 
-It's a personal project that I have vibe-coded because I want my Navidrome server and my iPod to follow the same structure of my spotify playlist and [iOpenPod](https://github.com/TheRealSavi/iOpenPod) imports M3U8 files that [CSVMusic](https://github.com/angall1/CSVMusic) generates after downloading my playlists which really how the idea came into fruition. *give those projects some love and stars guys. Really happy how it turned out and wants to share it with y'all and maybe shares the same problem as mine lmao.
+It's a personal project that I have vibe-coded because I want my Navidrome server and my iPod to follow the same structure of my spotify playlist and [iOpenPod](https://github.com/TheRealSavi/iOpenPod) imports M3U8/M3U files that [CSVMusic](https://github.com/angall1/CSVMusic) generates after downloading my playlists which really how the idea came into fruition. *give those projects some love and stars guys. Really happy how it turned out and wants to share it with y'all and maybe shares the same problem as mine lmao.
 
 ## License
 
